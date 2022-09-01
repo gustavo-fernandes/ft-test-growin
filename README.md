@@ -12,6 +12,10 @@ Gustavo Fernandes - fe-test-gustavo-marvel
 ```
 npm install
 ```
+This project requires a Marvel API Key. Need to set on src/services/MarvelAPI.js
+```
+const apiKey = "XXXXXX";
+```
 
 ### Compiles and hot-reloads for development
 ```
