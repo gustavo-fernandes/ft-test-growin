@@ -1,4 +1,12 @@
 # fe-test-gustavo-marvel
+![Marvel logo](https://upload.wikimedia.org/wikipedia/commons/0/0e/Marvel.gif)
+
+Gustavo Fernandes - fe-test-gustavo-marvel
+
+## Techs/Plugins
+- axios
+- bootstrap
+- popperjs
 
 ## Project setup
 ```
